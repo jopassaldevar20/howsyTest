@@ -1,4 +1,4 @@
-# takdang-aralin
+# Howsy Test
 
 ## Project setup
 ```
